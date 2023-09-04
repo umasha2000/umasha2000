@@ -1,8 +1,8 @@
 ![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
-<h1 align="center">Hi 👋, I'm Umasha Kaumadi</h1>
+<h2 align="center">Hi 👋, I'm Umasha Kaumadi</h2>
 <h3 align="center">Undergraduate at University of Colombo School of Computing | Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="Coding" width="370" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umasha2000&label=Profile%20views&color=0e75b6&style=flat" alt="umasha2000" /> </p>
 
