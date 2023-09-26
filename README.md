@@ -1,4 +1,4 @@
-![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
+
 <h2 align="center">Hi 👋, I'm Umasha Kaumadi</h2>
 <h3 align="center">Undergraduate at University of Colombo School of Computing | Full Stack Developer</h3>
 
