@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umasha2000&label=Profile%20views&color=0e75b6&style=flat" alt="umasha2000" /> </p>
 
-🔭 I’m currently working on **Neja- A Ecommerce Platform**
+🔭 I’m currently working on **Mhunter**
 
-🌱 I’m currently learning **Angular**
+🌱 I’m currently learning **Spring Boot**
 
 📫 How to reach me **umashakaumadi@gmail.com**
 
