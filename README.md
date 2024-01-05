@@ -2,17 +2,21 @@
 <h2 align="center">Hi 👋, I'm Umasha Kaumadi</h2>
 <h3 align="center">Undergraduate at University of Colombo School of Computing | Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="370" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umasha2000&label=Profile%20views&color=0e75b6&style=flat" alt="umasha2000" /> </p>
 
-🔭 I’m currently working on **Mhunter**
+👨‍💻 Software Engineer Intern at X-Venture Global Solutions (Pvt Ltd.)
+📚 Computer Science Undergraduate at University of Colombo School of Computing
 
-🌱 I’m currently learning **Spring Boot**
+🔧 Currently honing my skills in both backend and front-end development
 
-📫 How to reach me **umashakaumadi@gmail.com**
+🚀 Passionate about crafting efficient and scalable software solutions. Eager to contribute and learn in a dynamic development environment.
 
-<h3 align="left">Connect with me:</h3>
+🌐 Excited about the intersection of technology and business, striving to bridge the gap between theoretical knowledge and real-world applications.
+
+📖 Currently exploring new technologies, methodologies, and best practices in the ever-evolving field of software engineering.
+
+📫 Let's connect! Feel free to reach out for collaboration, discussions, or just a friendly chat.
+
 <p align="left">
 <a href="https://twitter.com/@umashakaumadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@umashakaumadi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umasha-kaumadi-3a09061a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umasha-kaumadi-3a09061a7" height="30" width="40" /></a>
