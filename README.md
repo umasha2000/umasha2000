@@ -1,11 +1,11 @@
 
 <h2 align="center">Hi 👋, I'm Umasha Kaumadi</h2>
-<h3 align="center">Undergraduate at University of Colombo School of Computing | Full Stack Developer</h3>
+<h3 align="center">Bsc. Computer Science - University of Colombo School of Computing | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umasha2000&label=Profile%20views&color=0e75b6&style=flat" alt="umasha2000" /> </p>
 
-👨‍💻 Software Engineer Intern at X-Venture Global Solutions (Pvt Ltd.)
-📚 Computer Science Undergraduate at University of Colombo School of Computing
+👨‍💻 Software Engineer at X-Venture Global Solutions (Pvt Ltd.)
+📚 BSc. Computer Science - Second Class(Lower) from University of Colombo School of Computing
 
 🔧 Currently honing my skills in both backend and front-end development
 
